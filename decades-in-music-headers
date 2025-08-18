@@ -1,0 +1,267 @@
+,decade,headers
+0,1940s,Pop
+1,1940s,Best Selling Records of Decade 1940s
+2,1940s,Jazz
+3,1940s,Country music
+4,1940s,Other Trends
+5,1950s,Rock and roll
+6,1950s,Classic pop
+7,1950s,R&B
+8,1950s,Blues
+9,1950s,Country music
+10,1950s,Jazz
+11,1950s,Other trends
+12,1950s,Folk music
+13,1950s,France
+14,1960s,Beat music and the British Invasion
+15,1960s,British blues boom
+16,1960s,British psychedelia
+17,1960s,Folk music
+18,1960s,Rock
+19,1960s,Psychedelic rock
+20,1960s,Surf rock
+21,1960s,Garage rock
+22,1960s,Blues-rock
+23,1960s,Roots rock
+24,1960s,Progressive rock
+25,1960s,Pop
+26,1960s,"R&B, Motown and soul music"
+27,1960s,Country music
+28,1960s,Other trends and musical events
+29,1960s,Bossa Nova
+30,1960s,Romantics
+31,1960s,Nueva ola
+32,1960s,Nueva canción
+33,1960s,Salsa
+34,1960s,Tango
+35,1960s,Música cebolla
+36,1960s,Sources
+37,1970s,Rock
+38,1970s,Pop
+39,1970s,"Disco, R&B and urban"
+40,1970s,Soft rock and pop
+41,1970s,Punk rock
+42,1970s,"Hard rock, arena rock and heavy metal"
+43,1970s,Progressive rock
+44,1970s,New wave
+45,1970s,Blues rock
+46,1970s,Country
+47,1970s,Other developments
+48,1970s,Japan
+49,1970s,Hong Kong
+50,1970s,Southeast Asia
+51,1970s,Nueva canción
+52,1970s,Rock
+53,1970s,Tropical
+54,1970s,Reggae and Afrobeat
+55,1970s,Cumbia
+56,1970s,Salsa and merengue
+57,1970s,Hard rock and early metal
+58,1970s,Progressive rock
+59,1970s,Glam rock
+60,1970s,Soft rock
+61,1970s,Punk rock
+62,1970s,New wave
+63,1970s,Country rock and Southern rock
+64,1970s,Notable deaths in country music
+65,1980s,Pop
+66,1980s,Rock
+67,1980s,Contemporary R&B
+68,1980s,Hip hop
+69,1980s,Electronic
+70,1980s,Country
+71,1980s,Rock
+72,1980s,Pop
+73,1980s,Pop
+74,1980s,Rock
+75,1980s,Salsa
+76,1980s,Merengue
+77,1980s,Japan
+78,1980s,Hong Kong
+79,1980s,Indonesia
+80,1980s,Hard rock and heavy/glam metal
+81,1980s,Alternative rock
+82,1980s,Other trends
+83,1980s,Post-punk
+84,1980s,New wave
+85,1980s,New Romantics
+86,1980s,Gothic rock
+87,1980s,Heavy metal
+88,1980s,Synthpop
+89,1980s,Italy
+90,1980s,Netherlands
+91,1980s,Germany
+92,1980s,Austria
+93,1990s,Rock
+94,1990s,Pop
+95,1990s,Contemporary R&B
+96,1990s,Neo-soul
+97,1990s,Hip hop
+98,1990s,Electronic music
+99,1990s,Country music
+100,1990s,Jazz
+101,1990s,Rock
+102,1990s,Pop
+103,1990s,Electronic music
+104,1990s,Pop
+105,1990s,Rock
+106,1990s,Salsa
+107,1990s,Cumbia
+108,1990s,Japanese rock
+109,1990s,J-pop
+110,1990s,C-pop
+111,1990s,Filipino pop
+112,1990s,Alternative rock
+113,1990s,Skate punk and pop punk
+114,1990s,Heavy metal
+115,1990s,Pop rock
+116,1990s,Hard rock
+117,1990s,Adult contemporary
+118,1990s,Swing revival
+119,1990s,Madchester
+120,1990s,Britpop
+121,1990s,Post-Britpop
+122,1990s,Shoegaze
+123,1990s,Other trends
+124,1990s,United Kingdom
+125,2000s,Hip hop
+126,2000s,Rock
+127,2000s,Pop
+128,2000s,Adult contemporary
+129,2000s,Contemporary R&B
+130,2000s,Country
+131,2000s,Electronic music
+132,2000s,Jazz
+133,2000s,Reggae
+134,2000s,Christian music
+135,2000s,Rock
+136,2000s,Alternative rock
+137,2000s,Pop
+138,2000s,Soul
+139,2000s,Electronic music
+140,2000s,Pop
+141,2000s,Rock
+142,2000s,R&B and soul
+143,2000s,Hip hop
+144,2000s,Pop
+145,2000s,Rock
+146,2000s,Reggaetón
+147,2000s,Salsa and merengue
+148,2000s,C-pop
+149,2000s,J-pop
+150,2000s,K-pop
+151,2000s,Indian pop
+152,2000s,Indo pop
+153,2000s,P-pop
+154,2000s,Afrobeats
+155,2000s,Arabic pop music
+156,2000s,Drum and bass
+157,2000s,Hip hop
+158,2000s,Pop rock
+159,2000s,Pop punk
+160,2000s,Post-grunge
+161,2000s,Nu metal
+162,2000s,Metalcore
+163,2000s,Hard rock/Heavy metal
+164,2000s,Emo
+165,2000s,"Garage rock, post-punk and new wave revival"
+166,2000s,Indie rock
+167,2000s,Dancehall
+168,2000s,Reggaetón
+169,2000s,Alternative
+170,2000s,Botswana
+171,2000s,Côte d'Ivoire
+172,2000s,Madagascar
+173,2000s,Malawi
+174,2000s,Niger
+175,2000s,Palestine
+176,2000s,Uganda
+177,2000s,Zambia
+178,2010s,Pop
+179,2010s,Rock
+180,2010s,Pop rock
+181,2010s,Contemporary R&B and soul
+182,2010s,Hip-hop
+183,2010s,Electronic
+184,2010s,Indie
+185,2010s,Country
+186,2010s,Christian
+187,2010s,Pop
+188,2010s,Soul
+189,2010s,Rock
+190,2010s,Folk
+191,2010s,Electronic
+192,2010s,Pop
+193,2010s,Electropop
+194,2010s,Contemporary R&B
+195,2010s,Hardstyle
+196,2010s,Future garage and Australian sound
+197,2010s,Metalcore and hardcore punk
+198,2010s,Neo-psychedelia
+199,2010s,Pop and reggaeton
+200,2010s,Hip-hop
+201,2010s,K-pop
+202,2010s,J-pop
+203,2010s,C-pop
+204,2010s,Hip-hop
+205,2010s,Electropop and rock
+206,2010s,Rap
+207,2010s,Afrobeats
+208,2010s,Alternative rock
+209,2010s,Psychedelic rock
+210,2010s,Progressive and experimental rock
+211,2010s,Pop punk and punk rock
+212,2010s,Hard rock and heavy metal
+213,2010s,Blog rap
+214,2010s,Mumble rap
+215,2010s,Trap
+216,2010s,Emo rap
+217,2010s,Alternative rap and industrial hip-hop
+218,2010s,Jazzhop and lofi hip-hop
+219,2010s,Hyperpop
+220,2010s,Indie folk
+221,2010s,Bedroom pop
+222,2010s,Hip-hop's influence on country
+223,2010s,Tragedy and deaths of classic stars
+224,2020s,Impact of COVID-19
+225,2020s,Impact of social media
+226,2020s,Trends and statistics
+227,2020s,Highlights (2020 to late 2022)
+228,2020s,Pop
+229,2020s,Hip hop
+230,2020s,Contemporary R&B and soul
+231,2020s,Indie & alternative
+232,2020s,Country
+233,2020s,Rock
+234,2020s,Electronic & dance
+235,2020s,Soundtrack
+236,2020s,K-pop
+237,2020s,Korean hip hop and R&B
+238,2020s,Japanese pop
+239,2020s,Mandopop
+240,2020s,Pop
+241,2020s,Rock
+242,2020s,Electronic
+243,2020s,Latin pop
+244,2020s,Reggaeton
+245,2020s,Afrobeats
+246,2020s,Legacy media in music
+247,2020s,Breakthroughs in pop music
+248,2020s,Notable pop acts
+249,2020s,Retro pop
+250,2020s,North American Latin pop
+251,2020s,Breakthroughs in rap music
+252,2020s,Rage
+253,2020s,Drift phonk
+254,2020s,Alternative
+255,2020s,Notable alternative acts
+256,2020s,American country music
+257,2020s,Regional Mexican
+258,2020s,Soft rock
+259,2020s,Hard rock and heavy metal
+260,2020s,Punk rock
+261,2020s,Shoegaze
+262,2020s,Hyperpop
+263,2020s,Notable electronic & dance acts
+264,2020s,Jersey club
+265,2020s,Breakcore
