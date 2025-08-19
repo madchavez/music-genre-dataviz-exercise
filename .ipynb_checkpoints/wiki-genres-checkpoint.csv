@@ -1,0 +1,214 @@
+,decade,genre
+0,1940s,Pop
+1,1940s,Jazz
+2,1950s,Rock and roll
+3,1950s,Classic pop
+4,1950s,Blues
+5,1950s,Jazz
+6,1960s,Rock
+7,1960s,Psychedelic rock
+8,1960s,Surf rock
+9,1960s,Garage rock
+10,1960s,Blues-rock
+11,1960s,Roots rock
+12,1960s,Progressive rock
+13,1960s,Pop
+14,1960s,Salsa
+15,1960s,Tango
+16,1970s,Rock
+17,1970s,Pop
+18,1970s,Disco
+19,1970s, R&B 
+20,1970s, urban
+21,1970s,Soft rock 
+22,1970s, pop
+23,1970s,Punk rock
+24,1970s,Hard rock
+25,1970s, arena rock 
+26,1970s, heavy metal
+27,1970s,Progressive rock
+28,1970s,New wave
+29,1970s,Blues rock
+30,1970s,Country
+31,1970s,Rock
+32,1970s,Reggae 
+33,1970s, Afrobeat
+34,1970s,Cumbia
+35,1970s,Salsa 
+36,1970s, merengue
+37,1970s,Hard rock 
+38,1970s, early metal
+39,1970s,Progressive rock
+40,1970s,Glam rock
+41,1970s,Soft rock
+42,1970s,Punk rock
+43,1970s,New wave
+44,1970s,Country rock 
+45,1970s, Southern rock
+46,1980s,Pop
+47,1980s,Rock
+48,1980s,Contemporary R&B
+49,1980s,Hip hop
+50,1980s,Electronic
+51,1980s,Country
+52,1980s,Rock
+53,1980s,Pop
+54,1980s,Pop
+55,1980s,Rock
+56,1980s,Salsa
+57,1980s,Merengue
+58,1980s,Hard rock 
+59,1980s, heavy/glam metal
+60,1980s,Alternative rock
+61,1980s,Post-punk
+62,1980s,New wave
+63,1980s,Gothic rock
+64,1980s,Heavy metal
+65,1980s,Synthpop
+66,1990s,Rock
+67,1990s,Pop
+68,1990s,Contemporary R&B
+69,1990s,Neo-soul
+70,1990s,Hip hop
+71,1990s,Jazz
+72,1990s,Rock
+73,1990s,Pop
+74,1990s,Pop
+75,1990s,Rock
+76,1990s,Salsa
+77,1990s,Cumbia
+78,1990s,J-pop
+79,1990s,C-pop
+80,1990s,Filipino pop
+81,1990s,Alternative rock
+82,1990s,Skate punk 
+83,1990s, pop punk
+84,1990s,Heavy metal
+85,1990s,Pop rock
+86,1990s,Hard rock
+87,1990s,Adult contemporary
+88,1990s,Britpop
+89,1990s,Post-Britpop
+90,1990s,Shoegaze
+91,2000s,Hip hop
+92,2000s,Rock
+93,2000s,Pop
+94,2000s,Adult contemporary
+95,2000s,Contemporary R&B
+96,2000s,Country
+97,2000s,Jazz
+98,2000s,Reggae
+99,2000s,Rock
+100,2000s,Alternative rock
+101,2000s,Pop
+102,2000s,Soul
+103,2000s,Pop
+104,2000s,Rock
+105,2000s,R&B 
+106,2000s, soul
+107,2000s,Hip hop
+108,2000s,Pop
+109,2000s,Rock
+110,2000s,Reggaetón
+111,2000s,Salsa 
+112,2000s, merengue
+113,2000s,C-pop
+114,2000s,J-pop
+115,2000s,K-pop
+116,2000s,Indian pop
+117,2000s,Indo pop
+118,2000s,P-pop
+119,2000s,Afrobeats
+120,2000s,Drum 
+121,2000s, bass
+122,2000s,Hip hop
+123,2000s,Pop rock
+124,2000s,Pop punk
+125,2000s,Nu metal
+126,2000s,Metalcore
+127,2000s,Hard rock/Heavy metal
+128,2000s,Emo
+129,2000s,Indie rock
+130,2000s,Dancehall
+131,2000s,Reggaetón
+132,2000s,Alternative
+133,2010s,Pop
+134,2010s,Rock
+135,2010s,Pop rock
+136,2010s,Contemporary R&B 
+137,2010s, soul
+138,2010s,Hip-hop
+139,2010s,Electronic
+140,2010s,Indie
+141,2010s,Country
+142,2010s,Christian
+143,2010s,Pop
+144,2010s,Soul
+145,2010s,Rock
+146,2010s,Folk
+147,2010s,Electronic
+148,2010s,Pop
+149,2010s,Electropop
+150,2010s,Contemporary R&B
+151,2010s,Future garage 
+152,2010s, Australian sound
+153,2010s,Metalcore 
+154,2010s, hardcore punk
+155,2010s,Neo-psychedelia
+156,2010s,Pop 
+157,2010s, reggaeton
+158,2010s,Hip-hop
+159,2010s,K-pop
+160,2010s,J-pop
+161,2010s,C-pop
+162,2010s,Hip-hop
+163,2010s,Electropop 
+164,2010s, rock
+165,2010s,Rap
+166,2010s,Afrobeats
+167,2010s,Alternative rock
+168,2010s,Psychedelic rock
+169,2010s,Progressive 
+170,2010s, experimental rock
+171,2010s,Pop punk 
+172,2010s, punk rock
+173,2010s,Hard rock 
+174,2010s, heavy metal
+175,2010s,Blog rap
+176,2010s,Mumble rap
+177,2010s,Trap
+178,2010s,Emo rap
+179,2010s,Alternative rap 
+180,2010s, industrial hip-hop
+181,2010s,Jazzhop 
+182,2010s, lofi hip-hop
+183,2010s,Hyperpop
+184,2010s,Indie folk
+185,2010s,Bedroom pop
+186,2020s,Pop
+187,2020s,Hip hop
+188,2020s,Contemporary R&B 
+189,2020s, soul
+190,2020s,Indie & alternative
+191,2020s,Country
+192,2020s,Rock
+193,2020s,Electronic & dance
+194,2020s,K-pop
+195,2020s,Korean hip hop 
+196,2020s, R&B
+197,2020s,M
+198,2020s,opop
+199,2020s,Pop
+200,2020s,Rock
+201,2020s,Electronic
+202,2020s,Latin pop
+203,2020s,Reggaeton
+204,2020s,Afrobeats
+205,2020s,Retro pop
+206,2020s,Alternative
+207,2020s,Soft rock
+208,2020s,Hard rock 
+209,2020s, heavy metal
+210,2020s,Punk rock
+211,2020s,Shoegaze
+212,2020s,Hyperpop
